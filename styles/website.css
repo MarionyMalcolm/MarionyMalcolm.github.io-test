@@ -116,3 +116,7 @@ div#book-title-logo{
 .book-header {
     background: #1c1c1b;
 }
+.book.color-theme-1 .book-header {
+    color: #afa790;
+    background: #1c1c1b;
+}
